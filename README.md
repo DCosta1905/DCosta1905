@@ -4,5 +4,5 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou uma estudante e freelancer Full Stack,
 
 Sobre Mim
 - 🎓 Atualmente, estudando Engenharia de Software.
-- 💻 Trabalhando como freelancer Full Stack, abordando desafios tanto no frontend quanto no backend.
+- 💻 Trabalhando como Assistente de análise de Dados,utilizando Python e SAS
 - 🌐 Explorando constantemente novas tecnologias e aprimorando minhas habilidades de desenvolvimento.
